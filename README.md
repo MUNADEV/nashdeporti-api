@@ -1,5 +1,5 @@
 # Nash Deporti: API
-
+Proyecto de Arquitectura de Software: Relacionador de personas con intereses deportivos
 ## Prerrequisitos
 
 - [`Java 11`](https://www.oracle.com/java/technologies/downloads/#java11)
